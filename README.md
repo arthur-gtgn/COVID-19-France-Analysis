@@ -10,6 +10,8 @@ Below is a list and description of the different notebooks that have been made f
 
 - Average age of deceased patients: This notebook calculates the average age of the deceased patients, but also the average age of all th e COVID-19 cases. 
 
+- Percentages: in this notebook, I divided the population of infected and made a pie chart of the different number of infected people. 
+
 # Notes
 
 There are also some HTML and PDF files in the repo. Those are made so that it is easier for non-programmers to access the project and the different notebooks. 
